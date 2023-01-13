@@ -19,7 +19,7 @@ function About() {
         <div className="lg:w-1/2 flex flex-col justify-center">
           <p className="text-white text-center text-xl mb-3 md:mb-10">
             I'm a web developer, with different interests like cloud
-            technologies and languages learning. I'll be happy to help you to
+            technologies and learning languages. I'll be happy to help you to
             build up your website.
           </p>
           <p className="text-white text-center text-xl">
